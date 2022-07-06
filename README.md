@@ -1,19 +1,38 @@
-# An Analysis of Kickstarter Campaigns #
+# Kickstarting with Excel
 
-## Project Goals and Tools ##
-Performing analysis with Excel on Kickstarter data to uncover trends
+## Overview of Project
+Using Excel and Kickstarter data to analyze outcomes based on goals and outcomes based on launch date.
 
-### Outcomes and Findings ###
+### Purpose
 
-![Parent Category Outcomes Pivot Chart](https://user-images.githubusercontent.com/108038989/176335165-205debc9-9b1f-449e-99de-e035e29d8c3c.png)
-![Subcategory Outcomes Pivot Chart](https://user-images.githubusercontent.com/108038989/176335166-2a1a8767-79dc-40c5-85fe-8f37dcb556a2.png)
+?
 
-* From the parent category and subcategory pivot charts, we found that the "theater" category and the "plays" subcategory have been the most successful Kickstarter campaigns.
+## Analysis and Challenges
 
-![Outcomes Based on Launch Date Pivot Chart](https://user-images.githubusercontent.com/108038989/176335162-4b256794-cb0d-487a-a5ef-be4a7930bacf.png)
+### Analysis of Outcomes Based on Launch Date
+
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/108038989/177430634-7a190267-4f3c-4cdc-98d4-90f8b4f37672.png)
+
+?
+
+### Analysis of Outcomes Based on Goals
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/108038989/177430618-a8a7dc45-0745-4e80-b9cc-a9c1ab77d3e5.png)
+
+?
+
+### Challenges and Difficulties Encountered
+
+## Results
 
 * From the line pivot chart, we found that May was the month that launched the most successful Kickstarter campaigns while January, June, July and October all had a similar amount of failed launched campaigns. 
 
-![B W Plot of Campaign Goals and Pledged Distribution Amounts for Plays in Great Britain](https://user-images.githubusercontent.com/108038989/176335557-8734fa5d-3dfb-4c2f-bfa1-15822ce93118.png)
+* From the parent category and subcategory pivot charts, we found that the "theater" category and the "plays" subcategory have been the most successful Kickstarter campaigns.
 
-* From the box and whisker plot, we found that 4,000 is the mean campaign goal for musicals in Great Britain. However, this value is an outlier based on the upper range of amounts pledged (3,500). If Louise wants to create a future project in Great Britain, she should lower her costs and production budet to under $4,000. (Of Note, currency should be £).
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+- What can you conclude about the Outcomes based on Goals?
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
