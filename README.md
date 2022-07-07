@@ -1,11 +1,11 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-Using Excel and Kickstarter data to analyze outcomes based on goals and launch date.
+Utilize Excel skills to analyze Kickstarter data and determine theater outcomes based on their launch dates and money goals.
 
 ### Purpose
 
-The purpose of this analysis is to determine how different campaigns performed in relation to their launch dates and funding goals given that Louise’s theater play achieved its fundraising goal relatively quickly after launch. Using the provided Kickstarter dataset, theater campaign outcomes based on the play's launch dates and funding goals will be visualized.
+The purpose of this analysis is to determine how different campaigns performed in relation to their launch dates and funding goals given that Louise’s theater play achieved its fundraising goal relatively quickly after launch. Using the provided Kickstarter dataset, theater campaign outcomes based on the play's launch dates and funding goals will be visualized and analyzed.
 
 ## Analysis and Challenges
 
@@ -13,26 +13,25 @@ The purpose of this analysis is to determine how different campaigns performed i
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/108038989/177430634-7a190267-4f3c-4cdc-98d4-90f8b4f37672.png)
 
-The chart above visualizes the theater outcomes based on launch dates. From the chart we can see that May was the month that launched the most successful Kickstarter theater campaigns while January, June, July and October all had a similar amount of failed launched campaigns. A similar amount of projects were canceled throughput the year, except in Octobe. 
+The chart above visualizes the theater outcomes based on launch dates. 
 
 ### Analysis of Outcomes Based on Goals
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/108038989/177430618-a8a7dc45-0745-4e80-b9cc-a9c1ab77d3e5.png)
 
-
+The chart above visualizes the percentage of successful, failed, and canceled plays based on their funding goal dollar-amount ranges.
 
 ### Challenges and Difficulties Encountered
 
+There were no challenges or difficulties encountered durign this analysis. Some potential challenges or difficulties that could have been encountered 
+
 ## Results
 
+From the Outcomes based on Launch Date chart, May is the month that launched the most successful Kickstarter theater campaigns. In contrast, the months of May, June, July, August, and October all had a similar amount of failed launched campaigns. A similar amount of projects were canceled throughput the year, except in October, which also shows a spike in the number of successful and failed projects from the precvious month of September. 
 
 
-* From the parent category and subcategory pivot charts, we found that the "theater" category and the "plays" subcategory have been the most successful Kickstarter campaigns.
+From the Outcomes based on Goals, the highest percentage of successful plays (76%) had goal amount ranges less than $1000. The highest percentage of failed plays (100%) had a goal amount range of $45,0000 to $49,999. The goal amount range of $15,000 to $19,999 had an equal percentage of succesful and failed plays (50%). 
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+The limitations of this dataset is that it is not all inclusive. Although we have data on theater plays for 21 countries, not all contries are represented in this dataset. The years of the data span from 2009 to 2017, and although we can use this to predict future trends, there is no information on current costs if we are trying to launch a play this decade.  
 
-- What can you conclude about the Outcomes based on Goals?
-
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
+Some other possible tables and/or graphs that we could create are stacked bar graphs to determine the total successful, failed, and canceled theater plays in different countries to see in which country a new play will have a higher chance of success. A further option is a line graph to demonstarte the trends of total successful, failed, and canceled theater plays in specific countries throughout the years.
