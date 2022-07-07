@@ -11,7 +11,7 @@ The purpose of this analysis is to determine how different campaigns performed i
 
 ### Analysis of Outcomes Based on Launch Date
 
-The chart below visualizes the number of successful, failed, and canceled theater projects based on the month of the year they launched. 
+The chart below visualizes the number of successful, failed, and canceled theater projects based on the month of the year they launched. This chart was created by  extracting the year from the “Date Created Conversion” column and creating a pivot table based on the Theater category throughout the years. The pivot table was then filtered so that the column labels displayed the number of "successful," "failed," and "canceled" theater projects for each month of the year. This line chart from the pivot table was created to visualize the relationship between theater outcomes and launch month.
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/108038989/177430634-7a190267-4f3c-4cdc-98d4-90f8b4f37672.png)
 
@@ -23,7 +23,7 @@ The chart below visualizes the percentage of successful, failed, and canceled pl
 
 ### Challenges and Difficulties Encountered
 
-There were no challenges or difficulties encountered durign this analysis. Some potential challenges or difficulties that could have been encountered in the first deliverable is not correctly populating the filters, columns, and rows in the theater outcomes pivot table. A challenge or difficulty is the second deliverable is not correctly using the COUNTSIF() function when populating the number of successful, failed, and canceled columns from the Kickstarter data. 
+There were no challenges or difficulties encountered durign this analysis. Some potential challenges or difficulties that could have been encountered in the first deliverable is not correctly populating the appropriate pivot table fields in the columns, rows, and values. A challenge or difficulty is the second deliverable is not correctly using the COUNTSIF() function when populating the number of successful, failed, and canceled columns from the Kickstarter data. 
 
 ## Results
 
