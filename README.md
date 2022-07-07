@@ -5,7 +5,7 @@ Using Excel and Kickstarter data to analyze outcomes based on goals and outcomes
 
 ### Purpose
 
-?
+The purpose of this analysis is to determine how different campaigns fared in relation to their launch dates and their funding goals given that Louise’s play Fever achieved its fundraising goal in a relatively quickly. Using the provided Kickstarter dataset, the theater campaign outcomes based on their launch dates and their funding goals will be visualized.
 
 ## Analysis and Challenges
 
