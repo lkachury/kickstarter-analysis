@@ -23,7 +23,7 @@ The chart below visualizes the percentage of successful, failed, and canceled pl
 
 ### Challenges and Difficulties Encountered
 
-There were no challenges or difficulties encountered durign this analysis. Some potential challenges or difficulties that could have been encountered in the first deliverable is not correctly populating the filters, columns, and rows in the theater outcomes pivot table. A challenge or difficulty is the second deliverable is not correctly using the COUNTSIF() function when populating the number of successful, failedm and canceled columns from the Kickstarter data. 
+There were no challenges or difficulties encountered durign this analysis. Some potential challenges or difficulties that could have been encountered in the first deliverable is not correctly populating the filters, columns, and rows in the theater outcomes pivot table. A challenge or difficulty is the second deliverable is not correctly using the COUNTSIF() function when populating the number of successful, failed, and canceled columns from the Kickstarter data. 
 
 ## Results
 
