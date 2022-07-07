@@ -11,13 +11,13 @@ The purpose of this analysis is to determine how different campaigns performed i
 
 ### Analysis of Outcomes Based on Launch Date
 
-The chart below visualizes the number of successful, failed, and canceled theater projects based on the month of the year they launched. This chart was created by  extracting the year from the “Date Created Conversion” column and creating a pivot table based on the Theater category throughout the years. The pivot table was then filtered so that the column labels displayed the number of "successful," "failed," and "canceled" theater projects for each month of the year. This line chart from the pivot table was created to visualize the relationship between theater outcomes and launch month.
+The chart below visualizes the number of successful, failed, and canceled theater projects based on the month of the year they launched. This chart was created by first extracting the year from the “Date Created Conversion” column in the Kickstarter data and creating a pivot table based on the Theater category throughout the years. The pivot table was then filtered so that the column labels displayed the number of "successful," "failed," and "canceled" theater projects for each month of the year. This line chart from the pivot table was created to visualize the relationship between theater outcomes and launch month.
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/108038989/177430634-7a190267-4f3c-4cdc-98d4-90f8b4f37672.png)
 
 ### Analysis of Outcomes Based on Goals
 
-The chart below visualizes the percentage of successful, failed, and canceled plays based on their funding goal dollar-amount ranges.
+The chart below visualizes the percentage of successful, failed, and canceled plays based on their funding goal dollar-amount ranges. This chart was created by first creating a new sheet with the theater play dollar-amount ranges and populating the number of "Successful," "Failed," and "Canceled" plays using the COUNTSIF function and the Kickstarter data. The total sum of projects for each range was calculated using the SUM() function and the percentage of successful, failed, and canceled projects were computed. This line chart was created to visualize the relationship between the goal-amount ranges the percentage of successful, failed, or canceled theater projects.
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/108038989/177430618-a8a7dc45-0745-4e80-b9cc-a9c1ab77d3e5.png)
 
